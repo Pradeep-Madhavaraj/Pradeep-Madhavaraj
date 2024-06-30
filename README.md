@@ -41,6 +41,7 @@ Backend Web Developer
 
 ### Yet to Explore
 - [ ] Dive deeper into Python and Back-end Frameworks (Flask, Django)
+- [ ] Dive deeper into APIs
 - [ ] Master Front-end Tech Stacks (HTML, CSS, Boostrap, JS, React, Vue, JQuery)
 - [ ] Learn MangoDB
 - [ ] Learn Deployment
