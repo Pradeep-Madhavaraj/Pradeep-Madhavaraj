@@ -12,7 +12,7 @@ Backend Web Developer
 - 😄 Pronouns: Inquisitive/Autodidact
 - ⚡ Fun fact: I watch Anime
 - 📫 How to reach me :
-<br /> [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepm6059@gmail.com) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-m-018163221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<br /> [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepm6059@gmail.com) [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pradeep-madhavaraj)
 
 ### I can code in 
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> 
